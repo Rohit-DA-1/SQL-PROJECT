@@ -7,7 +7,7 @@ This project explores a hospital dataset with **7500+ records**, using **SQL** t
   - Aggregations & Joins
   - CASE statements
   - Subqueries
-  - Window functions (`RANK()`)
+  - Window functions 
 - Extracted insights like:
   - Top 5 cities by treatment cost
   - ICU load with high-severity patients
@@ -16,7 +16,7 @@ This project explores a hospital dataset with **7500+ records**, using **SQL** t
   - Most common diagnoses by age group
 
 ## 🧰 Tools & Skills
-- SQL (MySQL)
+- SQL (PostgreSQL)
 - Analytical Thinking
 - Healthcare Data Interpretation
 
