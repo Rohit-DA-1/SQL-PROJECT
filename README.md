@@ -23,5 +23,5 @@ This project explores a hospital dataset with **7500+ records**, using **SQL** t
 ## 🙌 About Me
 **Rohit Yadav**  
 Aspiring Data Analyst | SQL | Power BI | Data Visualization  
-Let’s connect on [LinkedIn](#)
+Let’s connect on www.linkedin.com/in/rohit-yadav-03babb232
 
